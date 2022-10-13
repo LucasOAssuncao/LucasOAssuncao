@@ -6,10 +6,11 @@ Web Developer
 
 I'm studying web development at trybe and hope to be working as a dev later this year.
 
+* 🖥️ Front End Developer
 * 🌍  I'm based in Belo Horizonte, MG
 * 🖥️  See my portfolio at [https://lucasotoni-portfolio.vercel.app/](http://lucasotoni-portfolio.vercel.app/)
-* ✉️  You can contact me at [lotoni.vivo@gmail.com](mailto:lotoni.vivo@gmail.com)
-* 🧠  I'm learning hooks and redux
+* ✉️  You can contact me at [lucasotoni.dev@gmail.com](mailto:lucasotoni.dev@gmail.com)
+* 🧠  I'm learning TypeScript and POO
 
 ### Skills
 
@@ -20,6 +21,9 @@ I'm studying web development at trybe and hope to be working as a dev later this
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 
