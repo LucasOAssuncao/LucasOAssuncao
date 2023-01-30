@@ -1,5 +1,5 @@
-Hello, my name is Lucas Otoni Assunção
-=====================================
+Hello, my name is Lucas Otoni
+==============================
 
 Web Developer
 -------------
