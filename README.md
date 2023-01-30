@@ -6,7 +6,7 @@ Web Developer
 
 I'm studying web development at trybe and hope to be working as a dev later this year.
 
-* 🖥️ Front End Developer
+* 🖥️ Full stack Developer
 * 🌍  I'm based in Belo Horizonte, MG
 * 🖥️  See my portfolio at [https://lucasotoni-portfolio.vercel.app/](http://lucasotoni-portfolio.vercel.app/)
 * ✉️  You can contact me at [lucasotoni.dev@gmail.com](mailto:lucasotoni.dev@gmail.com)
