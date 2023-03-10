@@ -1,45 +1,82 @@
-Hello, my name is Lucas Otoni
-==============================
-
-Full stack Developer
--------------
-
-I'm trying to get my first job as a developer.
-
-* 🖥️ Full stack Developer
-* 🌍  I'm based in Belo Horizonte, MG
-* 🖥️  See my portfolio at [https://lucasotoni-portfolio.vercel.app/](http://lucasotoni-portfolio.vercel.app/)
-* ✉️  You can contact me at [lucasotoni.dev@gmail.com](mailto:lucasotoni.dev@gmail.com)
-* 🧠 Right now i'm learning Java.
+<div align="center">
+    <h1>Olá, eu sou o Lucas Otoni </h1>
+</div>
 
 ### Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+<div align="center">
+    <h2> Tecnologias e Ferramentas</h2>
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=bash" />
+        </a>
+        <a href="https://github.com">
+            <img src="https://skillicons.dev/icons?i=github" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=css" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react" />
+        </a>
+        <a href="https://www.python.org">
+            <img src="https://skillicons.dev/icons?i=redux" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nodejs" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=ts" />
+        </a>
+    </p>
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mysql" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mongodb" />
+        </a>
+        <a href="https://www.python.org">
+            <img src="https://skillicons.dev/icons?i=py" />
+        </a>
+        <a href="https://www.python.org">
+            <img src="https://skillicons.dev/icons?i=tailwind" />
+        </a>
+       <a href="https://www.python.org">
+            <img src="https://skillicons.dev/icons?i=express" />
+        </a>
+    </p>
+</div>
 
 
 ### Socials
-
-<p align="left"> <a href="https://discord.com/users/Otoni#8437" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/LucasOAssuncao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucas-otoni-5300661b2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
+<div align="center">
+  <a href="https://discord.com/users/Otoni#8437">
+            <img src="https://skillicons.dev/icons?i=discord" />
+        </a>
+  <a href="https://www.instagram.com/lucottoni/">
+            <img src="https://skillicons.dev/icons?i=instagram" />
+        </a>
+  <a href="https://www.linkedin.com/in/lucas-otoni-dev/">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+</div>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/LucasOAssuncao"><img src="https://github-readme-stats.vercel.app/api?username=LucasOAssuncao&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LucasOAssuncao's GitHub stats" /></a>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasOAssuncao&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&show_icons=true&include_all_commits=true&count_private=true" width=45% alt="Contribuições de Lucas">
+    <img src="https://streak-stats.demolab.com?user=LucasOAssuncao&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&background=000000&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF" width=45% alt="Status de sequência de Lucas">
+</div>
 
-<a href="https://github.com/LucasOAssuncao" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOAssuncao&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=F7F7F7&width=750&height=60&lines=Seja melhor que ontem sempre!" alt="Seja melhor que ontem sempre!" /></a>
+</p>
