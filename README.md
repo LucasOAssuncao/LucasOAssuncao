@@ -2,8 +2,6 @@
     <h1>Olá, eu sou o Lucas Otoni </h1>
 </div>
 
-### Skills
-
 <div align="center">
     <h2> Tecnologias e Ferramentas</h2>
     <p>
@@ -54,9 +52,8 @@
     </p>
 </div>
 
-
-### Socials
 <div align="center">
+  <h2>Contato</h2>
   <a href="https://discord.com/users/Otoni#8437">
             <img src="https://skillicons.dev/icons?i=discord" />
         </a>
