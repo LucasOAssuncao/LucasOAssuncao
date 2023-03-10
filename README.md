@@ -77,6 +77,6 @@
 
 <br>
 
-<p align="center">
+<div align="center" >
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=F7F7F7&width=750&height=60&lines=Seja melhor que ontem sempre!" alt="Seja melhor que ontem sempre!" /></a>
-</p>
+</div>
