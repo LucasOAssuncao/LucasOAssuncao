@@ -1,5 +1,6 @@
 <div align="center">
     <h1>Olá, eu sou o Lucas Otoni </h1>
+    <p>Desenvolvedor Full-stack</p>
 </div>
 
 <div align="center">
